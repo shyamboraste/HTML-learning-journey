@@ -1,0 +1,28 @@
+#sham{border-radius: 50%;
+    background-color:red;
+    height:100px;
+    width:100px;
+    align-self: center;
+    margin-left: 220px;
+    border:5px solid black;
+   
+}
+#adi{border-radius: 50%;
+    background-color:green;
+    height:100px;
+    width:100px;
+    margin-left: 220px;
+    border:5px solid black;
+    
+}
+#akash{border-radius: 50%;
+    background-color:yellow;
+    height:100px;
+    width:100px;
+    margin-left: 220px;
+    border:5px solid black;
+   
+}
+{
+    align:center
+}

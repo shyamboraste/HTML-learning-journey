@@ -1,0 +1,25 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    border:3px solid black;
+    display:inline-block;
+}
+#box1{
+    position:fixed;
+    left:0px;
+}
+#box2{
+    position:relative;
+    top:15px;
+    left:100spx;
+}
+#box3{
+    position:absolute;
+    left:0px;
+}
+#box4{
+    position:sticky;
+   top:0px;
+   left:20px;
+}
